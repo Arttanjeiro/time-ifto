@@ -8,4 +8,4 @@
 
 ## Tecnologia Front End
 
--Nextjs
+- Nextjs
