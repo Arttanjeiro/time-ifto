@@ -4,7 +4,7 @@ export const metadata = {
 
     title:{
       default: 'Home',
-      template: '%s | Home'
+      template: ' Usuário | %s'
     }
 
 }

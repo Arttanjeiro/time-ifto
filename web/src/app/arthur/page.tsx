@@ -1,5 +1,6 @@
 import Image from "next/image"
 
+
 interface Usuario{
   avatar_url: string
   location: string
@@ -8,6 +9,9 @@ interface Usuario{
   bio: string
 }
 
+export const metadata = {
+  title: 'Arthur'
+}
 
 async function getData(): Promise<Usuario>{
   const repo = await fetch('https://api.github.com/users/Arttanjeiro')
