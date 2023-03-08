@@ -20,7 +20,7 @@ export default async function Arthur(){
 
     <div>
      <div>
-      <Image src={usuario.avatar_url} alt='Imagem do usuario'/>
+      <Image src={usuario.avatar_url} alt='Imagem do usuario' width='120' height='120'/>
      </div>
     </div>
 
