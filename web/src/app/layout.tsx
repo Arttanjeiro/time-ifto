@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+import '../styles/globo.css'
+>>>>>>> arthur
 
 export const metadata = {
 
